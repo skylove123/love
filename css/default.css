@@ -82,7 +82,8 @@ body {
 
 #code .keyword {
     color: #7f0055;
-    font-weight: bold
+    font-weight: bold;
+    font-size: 15
 }
 
 #code .placeholder {
